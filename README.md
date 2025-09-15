@@ -18,7 +18,7 @@ I thrive on building impactful solutions, collaborating with teams, and explorin
 
 - 🌟 **Currently mastering**: Advanced Machine Learning  
 - 📩 **Email me**: [vermasuraj568@gmail.com](mailto:vermasuraj568@gmail.com)  
-- 📄 **Resume**: [View Here]([https://docs.google.com/document/d/1RiUDUMBnz4h35wpYXlbeW1KHECaK8eRC/edit?usp=drive_link](https://drive.google.com/file/d/1PcxcjA0Uw5qlUZmDPfXNU90Bogz3qsa-/view?usp=drive_link))  
+- 📄 **Resume**: [View Here] ([https://docs.google.com/document/d/1RiUDUMBnz4h35wpYXlbeW1KHECaK8eRC/edit?usp=drive_link](https://drive.google.com/file/d/1PcxcjA0Uw5qlUZmDPfXNU90Bogz3qsa-/view?usp=drive_link))  
 - 👯 **Open to**: Exciting collaborations and challenging projects  
 - 💬 **Ask me about**: Python, Machine Learning, Deep Learning, Generative AI, NLP  
 </div>
